@@ -1,7 +1,7 @@
 ---
 title: Podcast with attitude
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/5bf4dc06-314d-49c2-be3b-a51df2b6af20.jpeg
 blurb:
   heading: Why Kaldi?
   text: >-
